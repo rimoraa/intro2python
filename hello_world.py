@@ -1,3 +1,4 @@
-print('hello pals of teh world')
-
+# hello world 
+print("Hello world")
+import numpy
 
